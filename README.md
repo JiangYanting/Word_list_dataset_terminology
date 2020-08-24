@@ -50,9 +50,9 @@
 29农业词汇.txt|10321|
 30艺术学词汇.txt|35893|
 
-## 3.【Picture of word list file 部分词表文件截图】
+## 3.【Picture of word list file 部分词表文件图片】
  
-  ![](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E9%A2%86%E5%9F%9F%E8%AF%8D%E8%A1%A8.jpg) 
+  !![部分词表文件图片](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E9%A2%86%E5%9F%9F%E8%AF%8D%E8%A1%A8.jpg) 
  
 ## 4.【How to download this dataset? 获取方式】
   
