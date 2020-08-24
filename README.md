@@ -52,6 +52,8 @@
 
 ## 3.【Picture of word list file 词表文件截图】
  
+  ![词表文件截图](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E9%A2%86%E5%9F%9F%E8%AF%8D%E8%A1%A8.jpg) 
+ 
 ## 4.【How to download this dataset? 获取方式】
   
     请联系作者。微信号:jyt629000，或QQ号：540980735，或邮箱：jiangyanting@mail.bnu.edu.cn
