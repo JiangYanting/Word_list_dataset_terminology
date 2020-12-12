@@ -4,6 +4,7 @@
 ## 0.【update 2020-12-12更新】
 
   新增添有释义、有对应英文名的专业术语数据43000多条。
+  ![术语词典语料库](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E6%9C%89%E9%87%8A%E4%B9%89%E7%9A%84%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8.png)
 
 ## 1.【Introduction 简介】
 
@@ -56,7 +57,7 @@
 
 ## 3.【Picture of word list file 部分词表文件图片】
  
-  !![部分词表文件图片](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E9%A2%86%E5%9F%9F%E8%AF%8D%E8%A1%A8.jpg) 
+  ![部分词表文件图片](https://github.com/JiangYanting/Word_list_dataset_terminology/blob/master/%E9%A2%86%E5%9F%9F%E8%AF%8D%E8%A1%A8.jpg) 
  
 ## 4.【How to download this dataset? 获取方式】
   
