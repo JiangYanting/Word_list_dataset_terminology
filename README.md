@@ -61,4 +61,4 @@
  
 ## 4.【How to download this dataset? 获取方式】
   
-    请联系作者。微信号:jyt629000，或QQ号：540980735，或邮箱：jiangyanting@mail.bnu.edu.cn
+    请垂询作者。微信号:DHfusion，或QQ号：540980735。谢谢！
